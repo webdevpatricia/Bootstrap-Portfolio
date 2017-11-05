@@ -1,0 +1,65 @@
+body {
+	padding-top:70px;
+}
+
+html,
+body {
+  height: 100%;
+ }
+
+
+#navheader{
+	padding: 7px 7px 7px 7px;
+	margin: 0px 0px 0px 100px;
+}
+
+p{
+	font-size: 16px;
+}
+
+img{
+	margin-right:25px;
+}
+
+.connectimg{
+	width: 55px;
+	height:55px;
+	margin:20px 0px 38px 27px;
+}
+
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+
+.container{
+	padding-top: 20px;
+}
+
+/*contact.html*/
+form{
+	width: 100%;
+}
+
+label{
+	font-size: 20px;
+}
+
+#exampleInputMessage{
+	height:400px;
+
+}
+
+
+/*portfolio*/
+.portimg{
+	margin:0px 0px 0px 0px;
+}
